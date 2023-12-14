@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}   
+
+h1{
+    color: brown;
+    font-weight: bold;
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: brown;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4{
+    color: brown;
+    font-weight: bold;
+    font-size: 30px;
+}
