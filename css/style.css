@@ -20,3 +20,12 @@ h4{
     font-weight: bold;
     font-size: 30px;
 }
+
+div {
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(184, 94, 94);
+    border-color: black;
+    border-style: solid;
+    padding-right: auto;
+}
